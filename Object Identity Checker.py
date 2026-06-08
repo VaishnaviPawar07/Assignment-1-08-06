@@ -1,6 +1,6 @@
 #Object Identity Checker
-a = [1, 2, 3]
-b = [1, 2, 3]
+a = [11, 22, 33]
+b = [11, 22, 33]
 
 if a is b:
     print("Same object")
