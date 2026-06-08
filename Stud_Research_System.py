@@ -1,5 +1,5 @@
 #Student Research system
-students = ["Vaishnu", "Rutvik", "Nishi", "Ankita"]
+students = ["Vaishnu", "Krushnali", "Nishi", "Ankita"]
 
 name = input("Enter student name: ")
 
